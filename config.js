@@ -6,34 +6,34 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '918414837681', process.env.OWNER_NAME || 'Developer Mj 🤖', true],
+  ['918414837681', 'Mj ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Mj The Techie'
+global.botname = process.env.BOT_NAME || 'Eren'
 global.oname = author
 global.bname = botname
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCgBAra3GQC9rW'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://www.instagram.com/mj.exe.____?igsh=MXB3bjdvaXgxMDZ5MQ=='
+global.gclink = process.env.GROUP_LINK || 'https://whatsapp.com/channel/0029VaXNXHt8F2pCDdNq0p3E'
  
 //Apikeys
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.packname = process.env.BOT_NAME || 'Eren Yeager 🥵'
+global.stkpack = process.env.BOT_NAME || 'Eren Yeager 🥵'
+global.stkowner = process.env.OWNER_NAME || 'Mj ❤️✨'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with ❤️'
 
 //global emojis
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Ruko zara💗✨..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
@@ -56,9 +56,9 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['919637987574','919637987574']
-global.prems = ['919637987574','919637987574']
-global.allowed = ['919637987574','919637987574']
+global.mods = ['918414837681','918414837681']
+global.prems = ['918414837681','918414837681']
+global.allowed = ['918414837681','918414837681']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
