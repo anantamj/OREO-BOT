@@ -9,17 +9,18 @@ import moment from 'moment-timezone'
 let totalf = Object.values(global.plugins).filter(v => v.help && v.tags).length
 let tags = { 'main': 'Main' }
 const defaultMenu = {
-  before: `┏━━━ ❮❮ 𝙼𝙴𝙽𝚄 ❯❯
-┃⫹⫺ *𝙽𝚊𝚖𝚎:* ${global.author}
-┃⫹⫺ *𝚃𝚘𝚝𝚊𝚕:* ${totalf} + Features
-┃⫹⫺ *𝚅𝚎𝚛𝚜𝚒𝚘𝚗:* V1.4.3
-┃⫹⫺ *𝙿𝚛𝚎𝚏𝚒𝚡:* Multi Prefix 
-┃⫹⫺ *𝙾𝚠𝚗𝚎𝚛:* Shizo The Techie
-┃⫹⫺ *𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖:* 𝙻𝚒𝚗𝚞𝚡
-┖─────────┈┈┈〠⸙࿉༐
+  before: `   ⍨⃝📷 𓍢ִ໋🌷͙֒✧˚ ༘ ⋆｡˚♡ ᥫ᭡  *Eren MJ*  🜲×͜×🪽     𓍢ִ໋🌷͙֒✧˚ ༘ ⋆｡˚♡
+  ـــــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ــــــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ــــــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ
+┃🔥⃤ *𝙽𝚊𝚖𝚎:* ${global.author}
+┃🔥⃤ *𝚃𝚘𝚝𝚊𝚕:* ${totalf} + Features
+┃🔥⃤ *𝚅𝚎𝚛𝚜𝚒𝚘𝚗:* V1.4.3
+┃🔥⃤ *𝙿𝚛𝚎𝚏𝚒𝚡:* Multi Prefix 
+┃🔥⃤*𝙾𝚠𝚗𝚎𝚛:* ⏤͟͞  Mj「🇮🇳|❤️
+┃🔥⃤ *𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖:* 𝙻𝚒𝚗𝚞𝚡
+┖───────🪶🦚રાધે રાધે𓃔🦚
     %readmore`.trimStart(),
-  header: '┏━━━━ ❨ *%category* ❩ ━━┄┈ •⟅ ',
-  body: ' ┃✦ %cmd',
+  header: '┏━━━━ ❨ *%category* ❩🥺🥀❤️‍🩹 ',
+  body: ' ┃😏⁀➴ %cmd',
   footer: '┗━═┅┅┅┅═━–––––––๑\n',
   after: `*Made by ♡ ${global.oname}*`,
 }
