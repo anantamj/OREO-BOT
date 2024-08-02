@@ -21,13 +21,13 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 
     const { title, url, thumbnail } = result;
 
-    const captvid = '*Wait I am sending the audio*';
-    const sourceUrl = "https://chat.whatsapp.com/C7hcNLRf9s0GSGq7UiMulm";
+    const captvid = '*_Ruko jara bej rhe hai 🤧❤️_*';
+    const sourceUrl = "https://whatsapp.com/channel/0029VaXNXHt8F2pCDdNq0p3E";
 
     conn.reply(m.chat, captvid, m, {
       contextInfo: {
         externalAdReply: {
-          title: `THE BISCUIT BOT`,
+          title: `Mj ko follow kro 🙂❤️`,
           thumbnailUrl: thumbnail,
           sourceUrl,
           mediaType: 1,
